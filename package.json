@@ -1,0 +1,24 @@
+{
+  "name": "@xrm-mock-samples/web-api",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AlbanianXrm (albanian@xrm.al)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albanian-xrm/xrm-mock-samples.git"
+  },
+  "license": "MIT",
+  "description": "Sample test from https://github.com/davidjbclark/xrm-mock/wiki/Web-API",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/sinon": "^17.0.3",
+    "@types/xrm": "^9.0.82",
+    "jest": "^29.7.0",
+    "sinon": "^19.0.2",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.3",
+    "xrm-mock": "^3.6.1"
+  }
+}
